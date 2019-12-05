@@ -7,6 +7,14 @@
 
 This is Learning video making library works using the metaL model in Pharo/Smalltalk
 
+Demo (in Russian): https://www.youtube.com/playlist?list=PLddc343N7YqjmkeBlLJJhPshArgrkvle5
+
+# Links
+
+* Live capture (Linux):
+  * https://trac.ffmpeg.org/wiki/EncodingForStreamingSites
+  * https://trac.ffmpeg.org/wiki/Capture/Desktop
+
 # MIT license
 
 Copyright (c) 2019 Dmitry Ponyatov <<dponyatov@gmail.com>>
